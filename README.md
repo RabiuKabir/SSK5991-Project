@@ -225,11 +225,3 @@ Pertanika Journal of Science & Technology. [volume/issue/DOI to be added on publ
 Kabir, R. I. (2026). SSK5991-Project: PQEF source code and benchmark data [Computer software and data set].
 GitHub. https://github.com/RabiuKabir/SSK5991-Project
 ```
-
-## 9. Licence
-
-[Add a licence — e.g., MIT for the code and CC BY 4.0 for the data — and create a `LICENSE` file in the repository root.]
-
-## 10. Contact
-
-Rabiu Ibrahim Kabir — Department of Information Security, Faculty of Computer Science and Information Technology, Universiti Putra Malaysia — gs69943@student.upm.edu.my
